@@ -122,6 +122,33 @@ sights but smaller and pricier on short notice.
 
 ---
 
+## Airbnb & vacation rental options
+
+Live availability can't be pulled here — use these date-prefilled searches
+(adjust the guest counts to your family size):
+
+**Badlands nights (Jul 21–23):**
+- [Airbnb — Wall, SD](https://www.airbnb.com/s/Wall--SD--United-States/homes?checkin=2026-07-21&checkout=2026-07-23&adults=2&children=2) — most rentals cluster here; typically in-town houses 3 blocks from Wall Drug, ~10 min to the Pinnacles Entrance
+- [Airbnb — Interior, SD](https://www.airbnb.com/s/Interior--SD--United-States/homes?checkin=2026-07-21&checkout=2026-07-23&adults=2&children=2) — closer to Cedar Pass/visitor center side; fewer listings (ranch houses, destination trailers at Badlands RV & Cabins)
+- [Vrbo — Wall/Badlands area](https://www.vrbo.com/search?destination=Wall%2C%20South%20Dakota&startDate=2026-07-21&endDate=2026-07-23) — worth cross-checking, inventory differs from Airbnb
+- **Wildcard — [Circle View Guest Ranch](https://www.tripadvisor.com/Hotel_Review-g60729-d456268-Reviews-Circle_View_Guest_Ranch-Interior_South_Dakota.html)** (Interior, book direct at circleviewranch.com): working family ranch on the edge of the Badlands — kids feed chickens, gather eggs, play in a 3-story playhouse; 7 rooms w/ private bath + full ranch breakfast. Frequently called the best family stay in the area. Call — small places sometimes have room when the sites say no.
+
+**Black Hills nights (Jul 23–25):**
+- [Airbnb — Keystone cabins](https://www.airbnb.com/s/Keystone--SD--United-States/homes?checkin=2026-07-23&checkout=2026-07-25&adults=2&children=2) — closest to Rushmore; creek-side cabins, some with hot tubs
+- [Airbnb — Hill City](https://www.airbnb.com/s/Hill-City--SD--United-States/homes?checkin=2026-07-23&checkout=2026-07-25&adults=2&children=2) — central to Rushmore + Crazy Horse + Custer SP; meadow/forest cabins
+- [Airbnb — Rapid City](https://www.airbnb.com/s/Rapid-City--SD--United-States/homes?checkin=2026-07-23&checkout=2026-07-25&adults=2&children=2) — biggest inventory and best last-minute odds
+- [Vrbo — Keystone](https://www.vrbo.com/vacation-rentals/usa/south-dakota/black-hills/keystone) / [Vrbo — Rapid City](https://www.vrbo.com/vacation-rentals/usa/south-dakota/black-hills/rapid-city)
+
+**Short-notice tips (booking <1 week out):**
+- Filter by "flexible cancellation" in case plans shift ±1 day.
+- Message hosts directly — calendars are often stale in July and hosts will
+  confirm fast.
+- If Wall/Interior rentals are gone, Kadoka (25 min east) and Philip (35 min
+  north) usually have leftover inventory.
+- Compare the same listing on Airbnb vs Vrbo — fees differ.
+
+---
+
 ## July-specific family tips
 
 - **Heat is the #1 planning constraint.** All hiking before 10am. 3+ liters of
