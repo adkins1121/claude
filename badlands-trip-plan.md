@@ -1,8 +1,9 @@
-# Badlands National Park Trip Plan
+# Badlands Family Trip — July 21–26, 2026
 
-A road-trip plan from Kansas City to Badlands National Park, South Dakota, with an
-optional Black Hills extension. Built July 2026 — re-verify hours, fees, and
-reservations on [nps.gov/badl](https://www.nps.gov/badl) before you go.
+A 6-day family road trip from Kansas City to Badlands National Park with a Black
+Hills extension (Mount Rushmore, Custer State Park). Dates flexible ±1 day.
+Built July 15, 2026 — **the trip is next week, so book lodging immediately** (see
+checklist at the bottom). Re-verify hours and fees at [nps.gov/badl](https://www.nps.gov/badl).
 
 ---
 
@@ -10,118 +11,157 @@ reservations on [nps.gov/badl](https://www.nps.gov/badl) before you go.
 
 | | |
 |---|---|
-| **Drive from KC** | ~670 miles, ~9.5 hours (I-29 N → I-90 W) |
-| **Park hours** | Open 24/7, year-round |
-| **Entrance fee** | ~$30/vehicle, valid 7 days (fee schedule changed Jan 1, 2026 — confirm current pricing at [nps.gov](https://www.nps.gov/badl/planyourvisit/fees.htm)) |
-| **Visitor center** | Ben Reifel Visitor Center, summer hours 8am–5pm MT |
-| **Time zone** | Mountain Time (1 hour behind KC) |
-| **Best months** | May–June and September–October (45–81°F, fewer crowds). July–August works but expect 90–100°F+ afternoons — hike early. |
+| **Drive from KC** | ~670 miles, ~9.5 hours (I-29 N → I-90 W), plus you gain an hour (Mountain Time) |
+| **Park hours** | Open 24/7 |
+| **Entrance fee** | ~$30/vehicle, valid 7 days; kids under 16 free ([current fees](https://www.nps.gov/badl/planyourvisit/fees.htm)) |
+| **Visitor center** | Ben Reifel Visitor Center, 8am–5pm MT in summer |
+| **Late-July conditions** | Highs 90–100°F, lows ~60s. Sunrise ~5:30am MDT, sunset ~8:30pm MDT. Afternoon thunderstorms possible. **Hike early, sightsee from the car mid-day.** |
 
 ---
 
-## Getting there from Kansas City
+## The plan, day by day
 
-**Route:** I-29 North through St. Joseph → Omaha/Council Bluffs → Sioux Falls,
-then I-90 West to exit 131 (Interior) for the park's Northeast Entrance.
+### Tue July 21 — Drive KC → Badlands
+- Leave by ~7am. I-29 N through Omaha, then I-90 W at Sioux Falls.
+- Family-friendly leg-stretchers: **Falls Park** in Sioux Falls (~5.5 hrs in), the
+  **Corn Palace** in Mitchell, and the **Dignity of Earth and Sky** statue at the
+  Chamberlain I-90 rest stop.
+- With the time change you can leave KC at 7am and arrive ~4:30pm MT even with stops.
+- Enter at the **Northeast Entrance** (I-90 exit 131) — first views at **Big
+  Badlands Overlook** hit hard.
+- Dinner at Cedar Pass Lodge restaurant (try the Sioux Indian taco), then
+  **sunset at Pinnacles or Conata Basin Overlook**.
+- Overnight: Cedar Pass Lodge / Cedar Pass Campground / Wall (see lodging below).
 
-Worthwhile stops to break up the drive:
-- **Omaha** (~3 hrs in): Henry Doorly Zoo if traveling with kids, or just a food stop
-- **Sioux Falls** (~5.5 hrs in): Falls Park — a good leg-stretcher right off the interstate
-- **Mitchell, SD**: the Corn Palace, a classic 20-minute roadside stop
-- **Chamberlain, SD**: *Dignity of Earth and Sky* statue at the I-90 rest stop overlooking the Missouri River — genuinely worth pulling over for
-- **1880 Town** (exit 170): old-west movie-set town, kitschy but fun
+### Wed July 22 — Full Badlands day (the big one)
+- **Out the door by 5:30–6am** — this is non-negotiable in July, and dawn here is
+  the best thing the park does anyway.
+- Hike the trail cluster at the Door/Window lot while it's cool:
+  - **Notch Trail** (1.5 mi RT) — the log-ladder climb kids love; keep small ones
+    close on the ledge section. The park's best short hike.
+  - **Door Trail** (0.75 mi) — boardwalk, then free-range wandering in the
+    moonscape. Off-trail exploring is *allowed* here, a rarity kids find magical.
+  - **Window Trail** (0.25 mi) — quick payoff.
+- ~10am, retreat to the **Ben Reifel Visitor Center**: pick up **Junior Ranger
+  booklets**, watch the film, and visit the **Fossil Preparation Lab** (9am–4pm,
+  open mid-June–mid-Sept) — the only NPS site where kids can watch and quiz real
+  paleontologists cleaning fossils.
+- Mid-day (hot): drive the **Badlands Loop Road (Hwy 240)** with AC on — Fossil
+  Exhibit Trail (0.25 mi, shaded interpretive stops), Panorama Point, **Yellow
+  Mounds** (the most colorful formations), Pinnacles Overlook.
+- Late afternoon: pool break / naps / early dinner.
+- **9pm: evening ranger program** at the Cedar Pass Campground amphitheater, then
+  stay for the **Night Sky program / stargazing** — among the darkest skies in
+  the country.
 
-The drive is doable in one long day. If you'd rather split it, Sioux Falls or
-Chamberlain are the natural overnight points.
+### Thu July 23 — Wildlife morning, Wall Drug, missiles → Black Hills
+- Early again: drive the unpaved **Sage Creek Rim Road** (fine for regular cars
+  when dry) — **Roberts Prairie Dog Town** is a guaranteed kid hit, and this is
+  your best shot at **bison and bighorn sheep**.
+- **Wall Drug** in Wall, SD — the legendary roadside attraction: free ice water,
+  5¢ coffee, donuts, the animatronic T-rex, the jackalope photo op. Lean into it.
+- After lunch: **Minuteman Missile National Historic Site** visitor center
+  (I-90 exit 131, free) and the **Delta-09 silo** — a real Minuteman missile in
+  its silo. Surprisingly gripping for kids and adults. (Delta-01 launch-control
+  tours need [recreation.gov](https://www.recreation.gov) reservations — likely
+  gone for next week, but check for cancellations.)
+- Drive west ~1 hr to the Black Hills. Overnight in **Rapid City**, **Keystone**,
+  or **Hill City** (2 nights, same place).
 
----
+### Fri July 24 — Mount Rushmore + Custer State Park
+- **Mount Rushmore** first thing (morning light is best, crowds thinner). Walk the
+  Presidential Trail; kids can do another Junior Ranger badge here.
+- Lunch in Keystone or picnic in Custer State Park.
+- Afternoon: **Custer State Park** — swim or paddle at **Sylvan Lake**, drive
+  **Needles Highway** (granite spires, one-lane tunnels — slow, spectacular).
+- Evening: **Wildlife Loop Road** near dusk — 1,300+ bison, pronghorn, and the
+  famous begging burros (don't feed, but the kids will giggle). Wildlife is far
+  more active at dusk than mid-day.
+- Optional: Mount Rushmore **evening lighting ceremony** (~9pm in summer) if
+  energy allows.
 
-## Suggested itinerary (4 days)
+### Sat July 25 — Black Hills morning, then start home
+- Pick one morning activity:
+  - **Crazy Horse Memorial** (quick visit + museum), or
+  - **Jewel Cave / Wind Cave tour** (cool 50°F underground — great in July, but
+    tours sell out; book now or grab first-come tickets early), or
+  - A second, unhurried Wildlife Loop pass at dawn.
+- Hit the road ~11am MT. Drive I-90 E and overnight around **Sioux Falls**
+  (~5.5–6 hrs), turning the return into two easy halves. Falls Park is lit up at
+  night if you arrive with energy left.
+- (Alternative if you'd rather sprint: skip the Black Hills morning and drive
+  the whole way home today — long but doable.)
 
-### Day 1 — Drive out
-Leave KC early, stop at Falls Park and/or the Dignity statue, and aim to reach the
-park by late afternoon (remember you gain an hour). Enter at the **Northeast
-Entrance** and catch your first views at **Big Badlands Overlook** — then be
-somewhere on the Badlands Wall for **sunset** (Pinnacles Overlook and Conata Basin
-Overlook are the classic spots). Overnight at Cedar Pass or Wall.
-
-### Day 2 — Full Badlands day
-- **Sunrise** at Big Badlands Overlook or Door Trail — the formations glow pink/orange and this is the best light of the day
-- Hike the trail cluster at the Door/Window parking area, early before the heat:
-  - **Notch Trail** (1.5 mi round trip, moderate) — the famous log ladder and a ledge walk to a sweeping view of the White River Valley. The park's best short hike.
-  - **Door Trail** (0.75 mi) — boardwalk, then open exploration into the moonscape
-  - **Window Trail** (0.25 mi) — quick view through a natural gap in the Wall
-- Optional bigger hike: **Castle Trail** (10 mi round trip, or do an out-and-back portion; the **Medicine Root Loop** variation is ~4 mi)
-- Afternoon: drive the **Badlands Loop Road (Hwy 240)** west, stopping at overlooks — Panorama Point, Yellow Mounds (the most colorful formations), Pinnacles
-- **Fossil Exhibit Trail** (0.25 mi, accessible) — the Badlands are one of the richest fossil beds in the world
-- Evening: ranger program at Cedar Pass amphitheater, and stay out for **stargazing** — the night skies here are exceptional
-
-### Day 3 — Sage Creek, Wall Drug & Minuteman Missile
-- Morning: drive the unpaved **Sage Creek Rim Road** (fine for regular cars when dry) — **Roberts Prairie Dog Town** plus your best odds of **bison and bighorn sheep**
-- **Wall Drug** (Wall, SD) — the legendary roadside attraction; get the free ice water and a donut, see the animatronic T-rex, embrace the kitsch
-- **Minuteman Missile National Historic Site** — visitor center right off I-90 exit 131, plus the **Delta-09 silo** with an unarmed Minuteman missile you view through glass. A fascinating Cold War counterpoint to the geology. (Tours of the Delta-01 launch control facility require advance reservations on recreation.gov.)
-- Either start home and overnight around Chamberlain/Sioux Falls, **or** head west for the Black Hills extension below.
-
-### Day 4 — Drive home
-Straight shot back to KC (~9.5 hrs from the park, shorter if you positioned east on Day 3).
-
----
-
-## Optional Black Hills extension (+2 days)
-
-The Black Hills are only ~1 hour west of the Badlands and pair naturally:
-
-- **Mount Rushmore** — best light in the morning; evening lighting ceremony in summer
-- **Custer State Park** — the **Wildlife Loop Road** (1,300+ bison), Needles Highway, and Sylvan Lake. Arguably the highlight of the whole region.
-- **Crazy Horse Memorial**, **Wind Cave NP** or **Jewel Cave NM** (cave tours book up — reserve ahead)
-- **Spearfish Canyon** if you have extra time
-
-Base in **Rapid City**, **Keystone**, or **Custer** — everything is within about an
-hour. With this extension, plan on 6 days total door-to-door.
-
----
-
-## Where to stay
-
-**Inside the park:**
-- **Cedar Pass Lodge** ([staybadlands.com](https://staybadlands.com)) — the only lodging in the park; 23 modern cabins with AC, fridge, microwave. Books up fast — reserve well ahead. On-site restaurant (try the Sioux Indian taco).
-- **Cedar Pass Campground** — 96 sites, late March–mid October, walking distance to the visitor center; reserve on [recreation.gov](https://www.recreation.gov/camping/campgrounds/10288228)
-- **Sage Creek Campground** — free, primitive, first-come first-served; bison wander through camp
-
-**Outside the park:**
-- **Wall, SD** (8 min from Pinnacles Entrance) — most motel options: Best Western Plains, Sunshine Inn, etc.
-- **Interior, SD** (5 min from Cedar Pass) — small, a few budget options
-- **Rapid City** (~1 hr) — full-service base if adding the Black Hills
-
----
-
-## Practical tips
-
-- **Water & heat:** No water on any trail. Carry more than you think you need; summer afternoons regularly top 95°F with zero shade. Hike at sunrise.
-- **Weather whiplash:** Thunderstorms build fast in summer — get off high ground when they do. Wind is constant.
-- **Wildlife:** Give bison 100+ yards, always. Watch for prairie rattlesnakes on and off trail. Never feed prairie dogs (they carry plague, seriously).
-- **Open-hike policy:** The Badlands is one of the few parks where off-trail hiking is allowed everywhere — wandering the formations past the Door Trail boardwalk is a highlight. The sod tables and formations are grippy when dry, treacherous ("gumbo") when wet.
-- **Cell service:** Spotty to nonexistent in the park. Download offline maps before arriving.
-- **Fuel:** Fill up in Wall or Kadoka — nothing inside the park.
-- **Passes:** If you'll hit 3+ fee sites this year (Badlands + Wind Cave + others), the $80 America the Beautiful annual pass pays for itself.
-- **Sunrise/sunset cheat sheet:** Sunrise → Big Badlands Overlook or Door Trail. Sunset → Pinnacles or Conata Basin Overlook. Golden hour is when this park goes from good to unforgettable.
+### Sun July 26 — Sioux Falls → home
+- Easy ~5-hour run down I-29. Home mid-afternoon with a day to recover before
+  Monday.
 
 ---
 
-## Booking checklist
+## Lodging — book TODAY
 
-- [ ] Reserve Cedar Pass Lodge cabin or campground site (or Wall motel)
-- [ ] Reserve Delta-01 launch control tour on recreation.gov (if desired)
-- [ ] Reserve cave tour (Wind Cave / Jewel Cave) if doing the Black Hills extension
-- [ ] Buy America the Beautiful pass or plan to pay entrance fee at the gate
-- [ ] Download offline maps (Google Maps area + NPS app)
-- [ ] Pack: sun hat, sunscreen, 3L water capacity/person, hiking shoes with grip, layers for cool mornings, headlamp for stargazing
+For July dates one week out, availability is the whole ballgame. In order of
+preference:
+
+**Badlands nights (Jul 21–22):**
+1. **Cedar Pass Lodge cabins** ([staybadlands.com](https://staybadlands.com), 605-433-5460)
+   — only 23 cabins, AC, fridge; likely sold out but *call* — cancellations happen.
+2. **Cedar Pass Campground** ([recreation.gov](https://www.recreation.gov/camping/campgrounds/10288228))
+   — 96 sites, walking distance to visitor center and evening programs. Check for
+   released sites.
+3. **Wall, SD motels** (8 min from Pinnacles Entrance): Best Western Plains,
+   Super 8, Sunshine Inn — most realistic bet on short notice.
+4. **Sage Creek Campground** — free, primitive (vault toilet, no water), bison
+   wander through. Adventurous-family fallback that never "sells out."
+
+**Black Hills nights (Jul 23–24):** Rapid City has the deepest hotel inventory
+(chains, pools — a pool matters in July). Keystone/Hill City are closer to the
+sights but smaller and pricier on short notice.
+
+**Return night (Jul 25):** Sioux Falls — plenty of interstate hotels, book anytime.
+
+---
+
+## July-specific family tips
+
+- **Heat is the #1 planning constraint.** All hiking before 10am. 3+ liters of
+  water per person in the car, brimmed hats, sunscreen — there is essentially no
+  shade anywhere in the Badlands.
+- **Thunderstorms** build fast on July afternoons. Off the formations and ridges
+  at the first thunder; the "gumbo" mud after rain is comically slippery.
+- **Wildlife rules:** 100+ yards from bison — they're everywhere in Custer SP and
+  Sage Creek and they are faster than you. Watch for prairie rattlesnakes near
+  trails and prairie dog towns. Don't feed prairie dogs or burros.
+- **Junior Ranger hat trick:** kids can earn badges at Badlands, Minuteman
+  Missile, and Mount Rushmore on this route.
+- **Cell service** is near-zero in the park — download offline Google Maps and
+  the NPS app for both parks before leaving KC.
+- **Fuel up** in Wall or Kadoka; nothing inside the park.
+- **Passes:** You'll pay entrance at Badlands (~$30) and Mount Rushmore parking
+  (~$10, separate — the memorial itself is free). Custer State Park has its own
+  ~$20 vehicle license. An $80 America the Beautiful pass covers Badlands + Wind
+  Cave + Jewel Cave if you go the cave route.
+
+---
+
+## Booking checklist (do this week)
+
+- [ ] **Today:** Badlands-area lodging for Jul 21 & 22 (call Cedar Pass, then Wall motels)
+- [ ] **Today:** Rapid City/Keystone hotel for Jul 23 & 24
+- [ ] Check recreation.gov for Delta-01 tour and Jewel Cave/Wind Cave cancellations
+- [ ] Sioux Falls hotel for Jul 25 (easy, but one less thing)
+- [ ] Download offline maps + NPS app
+- [ ] Check the 10-day forecast before departure ([weather.gov](https://forecast.weather.gov) for Interior, SD)
+- [ ] Pack: sun hats, sunscreen, 3L water/person capacity, grippy shoes, swimsuits
+  (Sylvan Lake + hotel pools), headlamps for stargazing, layers for cool mornings
 
 ## Sources
 
 - [NPS — Badlands fees & passes](https://www.nps.gov/badl/planyourvisit/fees.htm)
 - [NPS — operating hours](https://www.nps.gov/badl/planyourvisit/hours.htm)
 - [NPS — hiking the Badlands](https://www.nps.gov/thingstodo/hiking-badl.htm)
+- [NPS — ranger programs](https://www.nps.gov/thingstodo/badl-ranger-programs.htm)
+- [NPS — Badlands kids & youth / Junior Ranger](https://www.nps.gov/badl/learn/kidsyouth/index.htm)
 - [Earth Trekkers — best hikes in Badlands (2026)](https://www.earthtrekkers.com/best-hikes-in-badlands-national-park/)
 - [Cedar Pass Lodge](https://staybadlands.com/)
 - [Recreation.gov — Cedar Pass Campground](https://www.recreation.gov/camping/campgrounds/10288228)
