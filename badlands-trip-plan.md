@@ -206,6 +206,25 @@ places). Links below are prefilled for 2 adults + 4 kids:
 
 ---
 
+## Budget worksheet (family of 6)
+
+Fill in actuals as bookings land. Estimates are July-2026 planning numbers.
+
+| Category | Basis | Estimate | Actual |
+|---|---|---|---|
+| Fuel | ~1,560 mi ÷ 18 mpg × ~$3.25/gal | $250–320 | TBD |
+| Lodging — Badlands ×2 | Cedar Pass / Wall rental / Circle View | $300–700 | TBD |
+| Lodging — Black Hills ×2 | Rapid City / Keystone / Hill City, sleeps 6 | $360–800 | TBD |
+| Lodging — Sioux Falls ×1 | Interstate hotel, 2 rooms or suite | $140–250 | TBD |
+| Park & attraction fees | Badlands $30 · Rushmore parking $10 · Custer SP $20 · cave ~$50 or Crazy Horse ~$35 (Minuteman free) | $110–160 | TBD |
+| Food — groceries & cooler | Breakfasts, trail lunches, snacks × 6 days | $250–350 | TBD |
+| Food — restaurants | ~1 sit-down/day for 6 | $400–600 | TBD |
+| Souvenirs & misc | Wall Drug gravity is real · 4 kids | $75–150 | TBD |
+| **Ballpark total** | | **$1,885–3,330** | — |
+
+Note: an $80 America the Beautiful annual pass covers Badlands + Wind Cave
+entrance and pays off if you'll visit another NPS fee site within 12 months.
+
 ## Booking checklist (do this week)
 
 - [ ] **Today:** Badlands-area lodging for Jul 21 & 22 (call Cedar Pass, then Wall motels)
