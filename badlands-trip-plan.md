@@ -1,7 +1,8 @@
 # Badlands Family Trip — July 21–26, 2026
 
-A 6-day family road trip from Kansas City to Badlands National Park with a Black
-Hills extension (Mount Rushmore, Custer State Park). Dates flexible ±1 day.
+A 6-day road trip from Kansas City to Badlands National Park with a Black
+Hills extension (Mount Rushmore, Custer State Park). Family of 6 — kids ages
+10, 9, 7, and 4. Dates flexible ±1 day.
 Built July 15, 2026 — **the trip is next week, so book lodging immediately** (see
 checklist at the bottom). Re-verify hours and fees at [nps.gov/badl](https://www.nps.gov/badl).
 
@@ -37,11 +38,17 @@ checklist at the bottom). Re-verify hours and fees at [nps.gov/badl](https://www
 - **Out the door by 5:30–6am** — this is non-negotiable in July, and dawn here is
   the best thing the park does anyway.
 - Hike the trail cluster at the Door/Window lot while it's cool:
-  - **Notch Trail** (1.5 mi RT) — the log-ladder climb kids love; keep small ones
-    close on the ledge section. The park's best short hike.
+  - **Notch Trail** (1.5 mi RT) — the log-ladder climb the 10, 9, and 7-year-old
+    will talk about all year. The 4-year-old can physically do the ladder with an
+    adult directly behind, but the ledge section after it has real drop-offs —
+    the smoother play is **divide and conquer**: one parent takes the big kids
+    up the Notch while the other does Door/Window with the 4-year-old, then swap
+    stories at the trailhead.
   - **Door Trail** (0.75 mi) — boardwalk, then free-range wandering in the
-    moonscape. Off-trail exploring is *allowed* here, a rarity kids find magical.
-  - **Window Trail** (0.25 mi) — quick payoff.
+    moonscape. Off-trail exploring is *allowed* here, a rarity kids find magical,
+    and it's the best "hike" in the park for a 4-year-old: no distance quota,
+    just scrambling.
+  - **Window Trail** (0.25 mi) — quick payoff, fully doable for everyone.
 - ~10am, retreat to the **Ben Reifel Visitor Center**: pick up **Junior Ranger
   booklets**, watch the film, and visit the **Fossil Preparation Lab** (9am–4pm,
   open mid-June–mid-Sept) — the only NPS site where kids can watch and quiz real
@@ -83,8 +90,11 @@ checklist at the bottom). Re-verify hours and fees at [nps.gov/badl](https://www
 ### Sat July 25 — Black Hills morning, then start home
 - Pick one morning activity:
   - **Crazy Horse Memorial** (quick visit + museum), or
-  - **Jewel Cave / Wind Cave tour** (cool 50°F underground — great in July, but
-    tours sell out; book now or grab first-come tickets early), or
+  - **Wind Cave — Garden of Eden tour**: the shortest, easiest cave tour in the
+    area (~1 hour, ~150 stairs) and the only one realistically fun with a
+    4-year-old. Skip Jewel Cave's scenic tour with this crew (723 stairs).
+    Cool 50°F underground — glorious in July, but tours sell out; book now or
+    line up early for first-come tickets, or
   - A second, unhurried Wildlife Loop pass at dawn.
 - Hit the road ~11am MT. Drive I-90 E and overnight around **Sioux Falls**
   (~5.5–6 hrs), turning the return into two easy halves. Falls Park is lit up at
@@ -124,19 +134,21 @@ sights but smaller and pricier on short notice.
 
 ## Airbnb & vacation rental options
 
-Live availability can't be pulled here — use these date-prefilled searches
-(adjust the guest counts to your family size):
+**Family of 6 note:** filter for places that sleep 6+ — this rules out most
+single hotel rooms and small cabins, which actually makes whole-house rentals
+*more* competitive than hotels for this trip (you'd need two hotel rooms most
+places). Links below are prefilled for 2 adults + 4 kids:
 
 **Badlands nights (Jul 21–23):**
-- [Airbnb — Wall, SD](https://www.airbnb.com/s/Wall--SD--United-States/homes?checkin=2026-07-21&checkout=2026-07-23&adults=2&children=2) — most rentals cluster here; typically in-town houses 3 blocks from Wall Drug, ~10 min to the Pinnacles Entrance
-- [Airbnb — Interior, SD](https://www.airbnb.com/s/Interior--SD--United-States/homes?checkin=2026-07-21&checkout=2026-07-23&adults=2&children=2) — closer to Cedar Pass/visitor center side; fewer listings (ranch houses, destination trailers at Badlands RV & Cabins)
+- [Airbnb — Wall, SD](https://www.airbnb.com/s/Wall--SD--United-States/homes?checkin=2026-07-21&checkout=2026-07-23&adults=2&children=4) — most rentals cluster here; typically in-town houses 3 blocks from Wall Drug, ~10 min to the Pinnacles Entrance
+- [Airbnb — Interior, SD](https://www.airbnb.com/s/Interior--SD--United-States/homes?checkin=2026-07-21&checkout=2026-07-23&adults=2&children=4) — closer to Cedar Pass/visitor center side; fewer listings (ranch houses, destination trailers at Badlands RV & Cabins)
 - [Vrbo — Wall/Badlands area](https://www.vrbo.com/search?destination=Wall%2C%20South%20Dakota&startDate=2026-07-21&endDate=2026-07-23) — worth cross-checking, inventory differs from Airbnb
 - **Wildcard — [Circle View Guest Ranch](https://www.tripadvisor.com/Hotel_Review-g60729-d456268-Reviews-Circle_View_Guest_Ranch-Interior_South_Dakota.html)** (Interior, book direct at circleviewranch.com): working family ranch on the edge of the Badlands — kids feed chickens, gather eggs, play in a 3-story playhouse; 7 rooms w/ private bath + full ranch breakfast. Frequently called the best family stay in the area. Call — small places sometimes have room when the sites say no.
 
 **Black Hills nights (Jul 23–25):**
-- [Airbnb — Keystone cabins](https://www.airbnb.com/s/Keystone--SD--United-States/homes?checkin=2026-07-23&checkout=2026-07-25&adults=2&children=2) — closest to Rushmore; creek-side cabins, some with hot tubs
-- [Airbnb — Hill City](https://www.airbnb.com/s/Hill-City--SD--United-States/homes?checkin=2026-07-23&checkout=2026-07-25&adults=2&children=2) — central to Rushmore + Crazy Horse + Custer SP; meadow/forest cabins
-- [Airbnb — Rapid City](https://www.airbnb.com/s/Rapid-City--SD--United-States/homes?checkin=2026-07-23&checkout=2026-07-25&adults=2&children=2) — biggest inventory and best last-minute odds
+- [Airbnb — Keystone cabins](https://www.airbnb.com/s/Keystone--SD--United-States/homes?checkin=2026-07-23&checkout=2026-07-25&adults=2&children=4) — closest to Rushmore; creek-side cabins, some with hot tubs
+- [Airbnb — Hill City](https://www.airbnb.com/s/Hill-City--SD--United-States/homes?checkin=2026-07-23&checkout=2026-07-25&adults=2&children=4) — central to Rushmore + Crazy Horse + Custer SP; meadow/forest cabins
+- [Airbnb — Rapid City](https://www.airbnb.com/s/Rapid-City--SD--United-States/homes?checkin=2026-07-23&checkout=2026-07-25&adults=2&children=4) — biggest inventory and best last-minute odds
 - [Vrbo — Keystone](https://www.vrbo.com/vacation-rentals/usa/south-dakota/black-hills/keystone) / [Vrbo — Rapid City](https://www.vrbo.com/vacation-rentals/usa/south-dakota/black-hills/rapid-city)
 
 **Short-notice tips (booking <1 week out):**
@@ -148,6 +160,29 @@ Live availability can't be pulled here — use these date-prefilled searches
 - Compare the same listing on Airbnb vs Vrbo — fees differ.
 
 ---
+
+## Age-specific notes (10, 9, 7, 4)
+
+- **The big three (10/9/7)** are in the Junior Ranger sweet spot (booklets target
+  5–12) and can handle every short hike in the plan. The Notch ladder will be
+  their highlight reel.
+- **The 4-year-old:** plan around a possible car nap window mid-day (which the
+  itinerary's hot-hours scenic drives already accommodate). Bring a carrier or
+  be ready for shoulder rides on anything past a half mile. Door Trail
+  scrambling, prairie dogs, Wall Drug, and the burros in Custer are the wins at
+  this age; the 9pm ranger program may be a stretch after 5:30am starts — split
+  the family if needed.
+- **Divide-and-conquer is the pattern:** one parent + big kids on the harder
+  stuff (Notch ledge, longer Castle Trail segment if energy allows), other
+  parent + the 4-year-old on the boardwalks and visitor center. Swap so nobody
+  misses everything.
+- **Car time:** ~9.5 hours each way with four kids means downloads-before-departure
+  (no service for long stretches of I-90), a cooler with real food, and leaning
+  hard on the planned stops — Falls Park and the Dignity statue are genuinely
+  good run-around breaks, and the Corn Palace is a 20-minute novelty that lands
+  with this age range.
+- **Stairs math for caves:** Wind Cave's Garden of Eden tour (~150 stairs) is
+  4-year-old compatible; Jewel Cave's scenic tour (723 stairs) is not.
 
 ## July-specific family tips
 
